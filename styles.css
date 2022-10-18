@@ -1,0 +1,37 @@
+.main-page-heading{
+    font-family: "Georgia", Arial, Helvetica;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.recipe {
+    font-family: "Lucida Handwriting", Arial, Helvetica;
+}
+
+.lasagna {
+    color: rgba(173, 91, 3, 0.374);
+}
+
+.apple-pie {
+    color: rgba(8, 193, 48, 0.847);
+}
+
+.tortilla {
+    color: orange;
+}
+
+.ingredients {
+    font-family: Papyrus, Monaco;
+    font-weight: bold;
+    color: rgba(202, 0, 0, 0.653);
+}
+
+.recipe-heading, .recipe-subheading, .recipe-description{
+    font-family: Garamond, Arial, Helvetica;
+}
+
+.steps-list {
+    font-family: "Courier New", Papyrus, Monaco;
+    font-weight: bold;
+    color: gray;
+}
